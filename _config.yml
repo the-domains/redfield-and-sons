@@ -1,6 +1,6 @@
 name: 'redfield&sons'
 favicon: null
-layout_spectrum: 0.8954313972499222
+layout_spectrum: 0.75243
 typography_spectrum: 0.3951965239830315
 title: motherofadventure
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#030303'
+    - '#ffffff'
+    - '#34373c'
+    - '#9a9a8d'
+    - '#c0cd9a'
   brandStrength: 0.4747714411932975
   lightness: 0.06691548880189657
   saturation: 0.5141344480216503
